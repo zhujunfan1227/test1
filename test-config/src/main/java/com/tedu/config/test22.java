@@ -1,4 +1,12 @@
+package com.tedu.config;
 
-// 我这个方法执行么22222222
 
-// 我这个方法执行么11111111111
+public class test22 {
+
+	public static void main(String[] args) {
+		///6666666666777777777777
+		// 我这个方法执行么1111133333
+	}
+
+}
+
